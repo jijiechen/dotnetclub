@@ -705,10 +705,10 @@ prelude-ls@~1.1.2:
   resolved "https://registry.yarnpkg.com/prelude-ls/-/prelude-ls-1.1.2.tgz#21932a549f5e52ffd9a827f570e04be62a97da54"
   integrity sha1-IZMqVJ9eUv/ZqCf1cOBL5iqX2lQ=
 
-prismjs@1.4.1:
-  version "1.4.1"
-  resolved "https://registry.yarnpkg.com/prismjs/-/prismjs-1.4.1.tgz#b82a10374f33bea58b355c6029e7e257ca05134a"
-  integrity sha1-uCoQN08zvqWLNVxgKefiV8oFE0o=
+prismjs@1.24.0:
+  version "1.24.0"
+  resolved "https://registry.yarnpkg.com/prismjs/-/prismjs-1.24.0.tgz#0409c30068a6c52c89ef7f1089b3ca4de56be2ac"
+  integrity sha512-SqV5GRsNqnzCL8k5dfAjCNhUrF3pR0A9lTDSCUZeh/LIshheXJEaP0hwLz2t4XHivd2J/v2HR+gRnigzeKe3cQ==
 
 psl@^1.1.24:
   version "1.1.29"
